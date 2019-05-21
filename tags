@@ -1,0 +1,63 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+0001_initial.py	3_Django/coderslab/exercises/migrations/0001_initial.py	1;"	kind:file	line:1
+0002_populate.py	3_Django/coderslab/exercises/migrations/0002_populate.py	1;"	kind:file	line:1
+ALLOWED_HOSTS	3_Django/coderslab/coderslab/settings.py	/^ALLOWED_HOSTS = []$/;"	kind:variable	line:28
+AUTH_PASSWORD_VALIDATORS	3_Django/coderslab/coderslab/settings.py	/^AUTH_PASSWORD_VALIDATORS = [$/;"	kind:variable	line:96
+BASE_DIR	3_Django/coderslab/coderslab/settings.py	/^BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))$/;"	kind:variable	line:16
+Band	3_Django/coderslab/exercises/models.py	/^class Band(models.Model):$/;"	kind:class	line:5
+DATABASES	3_Django/coderslab/coderslab/settings.py	/^DATABASES = {$/;"	kind:variable	line:79
+DEBUG	3_Django/coderslab/coderslab/settings.py	/^DEBUG = True$/;"	kind:variable	line:26
+ExercisesConfig	3_Django/coderslab/exercises/apps.py	/^class ExercisesConfig(AppConfig):$/;"	kind:class	line:4
+HomeworkConfig	3_Django/coderslab/homework/apps.py	/^class HomeworkConfig(AppConfig):$/;"	kind:class	line:4
+INSTALLED_APPS	3_Django/coderslab/coderslab/settings.py	/^INSTALLED_APPS = [$/;"	kind:variable	line:33
+LANGUAGE_CODE	3_Django/coderslab/coderslab/settings.py	/^LANGUAGE_CODE = 'en-us'$/;"	kind:variable	line:115
+MIDDLEWARE	3_Django/coderslab/coderslab/settings.py	/^MIDDLEWARE = [$/;"	kind:variable	line:45
+Migration	3_Django/coderslab/exercises/migrations/0001_initial.py	/^class Migration(migrations.Migration):$/;"	kind:class	line:8
+Migration	3_Django/coderslab/exercises/migrations/0002_populate.py	/^class Migration(migrations.Migration):$/;"	kind:class	line:25
+ROOT_URLCONF	3_Django/coderslab/coderslab/settings.py	/^ROOT_URLCONF = 'coderslab.urls'$/;"	kind:variable	line:55
+SECRET_KEY	3_Django/coderslab/coderslab/settings.py	/^SECRET_KEY = '_qb_*l(5jhqcn6-sfmp0=4&&4f***b#v#xa14gc^o3bk262fes'$/;"	kind:variable	line:23
+STATIC_URL	3_Django/coderslab/coderslab/settings.py	/^STATIC_URL = '\/static\/'$/;"	kind:variable	line:129
+TEMPLATES	3_Django/coderslab/coderslab/settings.py	/^TEMPLATES = [$/;"	kind:variable	line:57
+TIME_ZONE	3_Django/coderslab/coderslab/settings.py	/^TIME_ZONE = 'UTC'$/;"	kind:variable	line:117
+USE_I18N	3_Django/coderslab/coderslab/settings.py	/^USE_I18N = True$/;"	kind:variable	line:119
+USE_L10N	3_Django/coderslab/coderslab/settings.py	/^USE_L10N = True$/;"	kind:variable	line:121
+USE_TZ	3_Django/coderslab/coderslab/settings.py	/^USE_TZ = False$/;"	kind:variable	line:123
+WSGI_APPLICATION	3_Django/coderslab/coderslab/settings.py	/^WSGI_APPLICATION = 'coderslab.wsgi.application'$/;"	kind:variable	line:73
+__init__.py	3_Django/coderslab/coderslab/__init__.py	1;"	kind:file	line:1
+__init__.py	3_Django/coderslab/exercises/__init__.py	1;"	kind:file	line:1
+__init__.py	3_Django/coderslab/exercises/migrations/__init__.py	1;"	kind:file	line:1
+__init__.py	3_Django/coderslab/homework/__init__.py	1;"	kind:file	line:1
+__init__.py	3_Django/coderslab/homework/migrations/__init__.py	1;"	kind:file	line:1
+admin.py	3_Django/coderslab/exercises/admin.py	1;"	kind:file	line:1
+admin.py	3_Django/coderslab/homework/admin.py	1;"	kind:file	line:1
+application	3_Django/coderslab/coderslab/wsgi.py	/^application = get_wsgi_application()$/;"	kind:variable	line:16
+apps.py	3_Django/coderslab/exercises/apps.py	1;"	kind:file	line:1
+apps.py	3_Django/coderslab/homework/apps.py	1;"	kind:file	line:1
+dependencies	3_Django/coderslab/exercises/migrations/0001_initial.py	/^    dependencies = [$/;"	kind:variable	line:12
+dependencies	3_Django/coderslab/exercises/migrations/0002_populate.py	/^    dependencies = [$/;"	kind:variable	line:27
+fields	3_Django/coderslab/exercises/migrations/0001_initial.py	/^            fields=[$/;"	kind:variable	line:18
+initial	3_Django/coderslab/exercises/migrations/0001_initial.py	/^    initial = True$/;"	kind:variable	line:10
+manage.py	3_Django/coderslab/manage.py	1;"	kind:file	line:1
+models.py	3_Django/coderslab/exercises/models.py	1;"	kind:file	line:1
+models.py	3_Django/coderslab/homework/models.py	1;"	kind:file	line:1
+name	3_Django/coderslab/exercises/apps.py	/^    name = 'exercises'$/;"	kind:variable	line:5
+name	3_Django/coderslab/exercises/migrations/0001_initial.py	/^            name='Band',$/;"	kind:variable	line:17
+name	3_Django/coderslab/exercises/models.py	/^    name = models.CharField(max_length=64)$/;"	kind:variable	line:6
+name	3_Django/coderslab/homework/apps.py	/^    name = 'homework'$/;"	kind:variable	line:5
+operations	3_Django/coderslab/exercises/migrations/0001_initial.py	/^    operations = [$/;"	kind:variable	line:15
+operations	3_Django/coderslab/exercises/migrations/0002_populate.py	/^    operations = [$/;"	kind:variable	line:31
+populate	3_Django/coderslab/exercises/migrations/0002_populate.py	/^def populate(apps, schema_editor):$/;"	kind:function	line:8
+settings.py	3_Django/coderslab/coderslab/settings.py	1;"	kind:file	line:1
+tests.py	3_Django/coderslab/exercises/tests.py	1;"	kind:file	line:1
+tests.py	3_Django/coderslab/homework/tests.py	1;"	kind:file	line:1
+urlpatterns	3_Django/coderslab/coderslab/urls.py	/^urlpatterns = [$/;"	kind:variable	line:19
+urls.py	3_Django/coderslab/coderslab/urls.py	1;"	kind:file	line:1
+views.py	3_Django/coderslab/exercises/views.py	1;"	kind:file	line:1
+views.py	3_Django/coderslab/homework/views.py	1;"	kind:file	line:1
+wsgi.py	3_Django/coderslab/coderslab/wsgi.py	1;"	kind:file	line:1
+year	3_Django/coderslab/exercises/models.py	/^    year = models.IntegerField(null=True)$/;"	kind:variable	line:7

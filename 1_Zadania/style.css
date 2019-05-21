@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #eee;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: #666;
+}
+
+a {
+    color: #66e;
+}
+
+header, footer {
+    width: 1024px;
+    margin: 12px auto;
+}
+
+section {
+    width: 1024px;
+    margin: 0 auto;
+}
+
+#logo {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 12px;
+}
