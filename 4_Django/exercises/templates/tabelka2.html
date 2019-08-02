@@ -1,0 +1,20 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Wszystkie ciasteczka</title>
+</head>
+   <body>
+    <table>
+        <tr>
+            <th>klucz</th>
+            <th>wartsosc</th>
+        </tr>
+        {% for k, v in cookies %}
+        <tr>
+            <td>{{k}}</td>
+            <td>{{v}}</td>
+        </tr>
+        {% endfor %}
+    </table>
+</body>
+</html>

@@ -1,0 +1,19 @@
+<html>
+<head>
+    <title>Add to cookies:</title>
+</head>
+   <body>
+    <form action="#" method="POST">
+        <label>
+            Klucz:
+            <input type="text" name="key">
+        </label>
+        <label>
+            Wartość:
+            <input type="text" name="value">
+        </label>
+        <input type="submit" name="convertionType">
+        {% csrf_token %}
+    </form>
+</body>
+</html>
